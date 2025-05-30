@@ -251,3 +251,60 @@
             </div>
         </div>
     </section>
+
+潘明凯 2024303120104
+    <!-- 在校学生 -->
+    <section id="students" class="section">
+        <h2 class="section-title">在校学生</h2>
+        <div class="student-grid">
+            <!-- 学生条目 -->
+            <div class="student-card">
+                <h3>秦璐</h3>
+                <p>2022级博士研究生</p >
+                <p style="color: var(--secondary);">研究方向：亚热带地区微尺度土壤水文过程</p >
+            </div>
+            <div class="student-card">
+                <h3>张昊</h3>
+                <p>2023级博士研究生</p >
+                <p style="color: var(--secondary);">研究方向：崩岗发育与细沟发育</p >
+            </div>
+            <!-- 学生条目 -->
+            <div class="student-card">
+                <h3>王金强</h3>
+                <p>2022级博士研究生</p >
+                <p style="color: var(--secondary);">研究方向：旱地红壤氮素的垂直分布与微生物群落结构的关系</p >
+            </div>
+            <div class="student-card">
+                <h3>Usama Khan</h3>
+                <p>2023级博士研究生</p >
+                <p style="color: var(--secondary);">研究方向：土壤孔隙网络建模</p >
+            </div>
+            <!-- 学生条目 -->
+            <div class="student-card">
+                <h3>黄怡婷</h3>
+                <p>2024级博士研究生</p >
+                <p style="color: var(--secondary);">研究方向：东北黑土区长坡土壤水文热力学</p >
+            </div>
+            <div class="student-card">
+                <h3>陈丽敏</h3>
+                <p>2022级硕士研究生</p >
+                <p style="color: var(--secondary);">研究方向：黏红壤作物根系土力性质</p >
+            </div>
+            <!-- 学生条目 -->
+            <div class="student-card">
+                <h3>陈俊熹</h3>
+                <p>2022级硕士研究生</p >
+                <p style="color: var(--secondary);">研究方向：典型黑土区损毁耕地的速度与影响因子</p >
+            </div>
+            <div class="student-card">
+                <h3>吴银菇</h3>
+                <p>2022级硕士研究生</p >
+                <p style="color: var(--secondary);">研究方向：土壤水热过程</p >
+            </div>
+            <!-- 学生条目 -->
+            <div class="student-card">
+                <h3>程晓慧</h3>
+                <p>2023级硕士研究生</p >
+                <p style="color: var(--secondary);">研究方向：不同退化黑土垄作后土壤结构和水力分异特征</p >
+            </div>
+    
