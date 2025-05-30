@@ -212,3 +212,42 @@
             <!-- 添加更多年份 -->
         </div>
     </section>
+
+李安 2024303120093
+    <!-- 文体活动 -->
+    <section id="activities" class="section">
+        <h2 class="section-title">文体活动</h2>
+        <div class="gallery-grid">
+            <div class="activity-card">
+                <div class="activity-img-container">
+                    < img src="activity1.jpeg" alt="秋游活动" class="activity-img">
+                </div>
+                <div class="activity-info">
+                    <h3 class="activity-title">年度秋游活动</h3>
+                    <p class="activity-desc">每年一度，土壤物理课题组会在每年十月份左右，选择一个秋高气爽的日子，大家集体选择一个武汉市附近的秋游地点，
+                                             可以是公园，可以是游乐园，可以是博物馆等等，老师会报销大家的开支，大家可以在科研疲劳时期享受公费放松</p >
+                </div>
+            </div>
+            <div class="activity-card">                                          
+                <div class="activity-img-container">
+                    < img src="activity2.jpg" alt="学术沙龙" class="activity-img">
+                </div>
+                <div class="activity-info">
+                    <h3 class="activity-title">参加学术会议</h3>
+                    <p class="activity-desc">大家平常在学习，阅读文献及做实验外，自己可以通过学校的学习渠道，去选择最近时间自己感兴趣的研究课题，报名
+                                              参加学术会议，与各位师兄师姐进行交流，学习经验与方法。
+                    </p >
+                </div>
+            </div>
+            <div class="activity-card">
+                <div class="activity-img-container">
+                    < img src="activity3.jpg" alt="实验室开放日" class="activity-img">
+                </div>
+                <div class="activity-info">
+                    <h3 class="activity-title">羽毛球，乒乓球</h3>
+                    <p class="activity-desc">研究生的生活不仅仅是文献与试验，在感到疲惫时，你可以约上课题组的师兄弟妹们去打羽毛球或者乒乓球，课题组四
+                                              位老师会为我们提供充足的经费去购买羽毛球及报销羽毛球场地的费用</p >
+                </div>
+            </div>
+        </div>
+    </section>
